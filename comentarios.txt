@@ -1,0 +1,5 @@
+1,Laptop,Juan Perez,Excelente rendimiento; muy rapida.,2025-05-01
+2,Smartphone,Ana Gomez,Buena camara pero la bateria dura poco.,2025-05-03
+3,Tablet,Carlos Ruiz,No me gusto; pantalla de baja calidad.,2025-05-05
+4,Auriculares,Sofia Martinez,Sonido aceptable; material fragil.,2025-05-06
+5,Teclado,Diego Fernandez,Muy buen teclado mecanico.,2025-05-08

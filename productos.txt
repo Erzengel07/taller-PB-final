@@ -1,0 +1,10 @@
+1,Laptop,Portatil con pantalla Full HD y SSD de 512GB,89999,10,0
+2,Smartphone,Telefono con camara de 108MP y carga rapida,49950,20,0
+3,Tablet,Dispositivo con pantalla tactil de 10 pulgadas,29999,15,0
+4,Auriculares,Audifonos inalambricos con cancelacion de ruido,12999,25,0
+5,Teclado,Teclado mecanico con iluminacion RGB,8999,30,0
+6,Mouse,Raton inalambrico con sensor optico de alta precision,5999,50,0
+7,Monitor,Pantalla LED 4K de 27 pulgadas,49900,12,0
+8,Impresora,Laser multifuncional con Wi-Fi,17999,18,0
+9,Camara,Camara digital con lente profesional,79999,8,0
+10,Smartwatch,Reloj inteligente con GPS y monitoreo cardiaco,19999,22,0
